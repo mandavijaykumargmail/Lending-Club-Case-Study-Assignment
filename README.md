@@ -44,6 +44,8 @@ To develop your understanding of the domain, you are advised to independently re
 - library - Python 10.0 and above
 - library - Pandas in Python 
 - library - Data Visulizations in Python
+- GIT-Hub - for code
+- MS Excel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -55,7 +57,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [mandavijaykumar@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
